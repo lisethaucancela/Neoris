@@ -258,3 +258,4 @@ C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris\bin\Debug\net8.0\xun
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris\bin\Debug\net8.0\xunit.core.dll
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris\obj\Debug\net8.0\Neoris.sourcelink.json

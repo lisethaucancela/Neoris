@@ -330,3 +330,4 @@ C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.Tests\obj\Debug\net8
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.Tests\obj\Debug\net8.0\Neoris.Tests.pdb
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.Tests\obj\Debug\net8.0\Neoris.Tests.genruntimeconfig.cache
 C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.Tests\obj\Debug\net8.0\ref\Neoris.Tests.dll
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.Tests\obj\Debug\net8.0\Neoris.Tests.sourcelink.json

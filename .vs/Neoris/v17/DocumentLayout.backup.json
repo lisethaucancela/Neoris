@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C846141-3D21-4018-9351-61E288AA3FFF}|Neoris.IntegrationTests\\Neoris.IntegrationTests.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C846141-3D21-4018-9351-61E288AA3FFF}|Neoris.IntegrationTests\\Neoris.IntegrationTests.csproj|solutionrelative:neoris.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris.tests\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|solutionrelative:neoris.tests\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,12 +86,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Program.cs",
+              "RelativeDocumentMoniker": "Neoris\\Program.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Program.cs",
+              "RelativeToolTip": "Neoris\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:12:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.IntegrationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Neoris.IntegrationTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.IntegrationTests\\UnitTest1.cs*",
+              "RelativeToolTip": "Neoris.IntegrationTests\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:02:48.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Neoris.Tests",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\Neoris.Tests.csproj",
               "RelativeDocumentMoniker": "Neoris.Tests\\Neoris.Tests.csproj",
-              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\Neoris.Tests.csproj*",
-              "RelativeToolTip": "Neoris.Tests\\Neoris.Tests.csproj*",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\Neoris.Tests.csproj",
+              "RelativeToolTip": "Neoris.Tests\\Neoris.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-21T18:48:56.252Z",
@@ -91,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ClienteTests.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\ClienteTests.cs",
               "RelativeDocumentMoniker": "Neoris.Tests\\ClienteTests.cs",
-              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\ClienteTests.cs*",
-              "RelativeToolTip": "Neoris.Tests\\ClienteTests.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\ClienteTests.cs",
+              "RelativeToolTip": "Neoris.Tests\\ClienteTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwCUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T18:49:16.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Neoris.Tests\\UnitTest1.cs",
@@ -117,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Neoris\\Mapping\\MappingProfile.cs",
@@ -130,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ReporteController.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\ReporteController.cs",
               "RelativeDocumentMoniker": "Neoris\\Controllers\\ReporteController.cs",
@@ -143,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ReporteCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\DTOs\\ReporteCuentaDto.cs",
               "RelativeDocumentMoniker": "Neoris\\DTOs\\ReporteCuentaDto.cs",
@@ -156,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ReporteService.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\ReporteService.cs",
               "RelativeDocumentMoniker": "Neoris\\Service\\ReporteService.cs",
@@ -169,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IClienteService.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IClienteService.cs",
               "RelativeDocumentMoniker": "Neoris\\Service\\IClienteService.cs",
@@ -182,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MovimientoService.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\MovimientoService.cs",
               "RelativeDocumentMoniker": "Neoris\\Service\\MovimientoService.cs",
@@ -195,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MovimientosController.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\MovimientosController.cs",
               "RelativeDocumentMoniker": "Neoris\\Controllers\\MovimientosController.cs",
@@ -208,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IMovimientoService.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IMovimientoService.cs",
               "RelativeDocumentMoniker": "Neoris\\Service\\IMovimientoService.cs",
@@ -221,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CuentasServicecs.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\CuentasServicecs.cs",
               "RelativeDocumentMoniker": "Neoris\\Service\\CuentasServicecs.cs",
@@ -234,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CuentasController.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\CuentasController.cs",
               "RelativeDocumentMoniker": "Neoris\\Controllers\\CuentasController.cs",
@@ -247,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Movimiento.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Movimiento.cs",
               "RelativeDocumentMoniker": "Neoris\\Models\\Movimiento.cs",
@@ -260,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "MiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Data\\MiDbContext.cs",
               "RelativeDocumentMoniker": "Neoris\\Data\\MiDbContext.cs",
@@ -273,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Cuenta.cs",
               "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Cuenta.cs",
               "RelativeDocumentMoniker": "Neoris\\Models\\Cuenta.cs",

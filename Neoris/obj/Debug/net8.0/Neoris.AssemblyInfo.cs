@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Neoris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5a02b5a6d273d32dac72e0609761211acea7824")]
 [assembly: System.Reflection.AssemblyProductAttribute("Neoris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Neoris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

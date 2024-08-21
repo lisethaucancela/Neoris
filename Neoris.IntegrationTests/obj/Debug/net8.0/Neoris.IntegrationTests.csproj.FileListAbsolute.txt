@@ -1,0 +1,8 @@
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Neoris.IntegrationTests
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.AssemblyInfo.cs
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\ARELYS\Documents\Lis\Neoris\Ejercios\Neoris\Neoris.IntegrationTests\obj\Debug\net8.0\Neoris.IntegrationTests.sourcelink.json
