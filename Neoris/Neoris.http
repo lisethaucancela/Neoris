@@ -1,0 +1,6 @@
+@Neoris_HostAddress = http://localhost:5250
+
+GET {{Neoris_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

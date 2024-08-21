@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris.tests\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|solutionrelative:neoris.tests\\clientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|solutionrelative:neoris.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris.tests\\neoris.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FCD66C3-1C44-4136-AF45-7F8E9266749D}|Neoris.Tests\\Neoris.Tests.csproj|solutionrelative:neoris.tests\\neoris.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\service\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\service\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\service\\movimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\service\\movimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\dtos\\reportecuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\dtos\\reportecuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\service\\imovimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\service\\imovimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\service\\cuentasservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\service\\cuentasservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|c:\\users\\arelys\\documents\\lis\\neoris\\ejercios\\neoris\\neoris\\data\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2304BF7-86E8-4681-9E48-EBE676C37F26}|Neoris\\Neoris.csproj|solutionrelative:neoris\\data\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neoris.Tests",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\Neoris.Tests.csproj",
+              "RelativeDocumentMoniker": "Neoris.Tests\\Neoris.Tests.csproj",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\Neoris.Tests.csproj",
+              "RelativeToolTip": "Neoris.Tests\\Neoris.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T18:48:56.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteTests.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\ClienteTests.cs",
+              "RelativeDocumentMoniker": "Neoris.Tests\\ClienteTests.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\ClienteTests.cs",
+              "RelativeToolTip": "Neoris.Tests\\ClienteTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:49:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Neoris.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Neoris.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:44:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Neoris\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Neoris\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:16:49.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "Neoris\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "Neoris\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:14:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReporteCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\DTOs\\ReporteCuentaDto.cs",
+              "RelativeDocumentMoniker": "Neoris\\DTOs\\ReporteCuentaDto.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\DTOs\\ReporteCuentaDto.cs",
+              "RelativeToolTip": "Neoris\\DTOs\\ReporteCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:02:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\ReporteService.cs",
+              "RelativeDocumentMoniker": "Neoris\\Service\\ReporteService.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\ReporteService.cs",
+              "RelativeToolTip": "Neoris\\Service\\ReporteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:59:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Neoris\\Service\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IClienteService.cs",
+              "RelativeToolTip": "Neoris\\Service\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:37:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\MovimientoService.cs",
+              "RelativeDocumentMoniker": "Neoris\\Service\\MovimientoService.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\MovimientoService.cs",
+              "RelativeToolTip": "Neoris\\Service\\MovimientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:39:43.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "Neoris\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "Neoris\\Controllers\\MovimientosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:33:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IMovimientoService.cs",
+              "RelativeDocumentMoniker": "Neoris\\Service\\IMovimientoService.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\IMovimientoService.cs",
+              "RelativeToolTip": "Neoris\\Service\\IMovimientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:45:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CuentasServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\CuentasServicecs.cs",
+              "RelativeDocumentMoniker": "Neoris\\Service\\CuentasServicecs.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Service\\CuentasServicecs.cs",
+              "RelativeToolTip": "Neoris\\Service\\CuentasServicecs.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:42:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "Neoris\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "Neoris\\Controllers\\CuentasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:41:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Neoris\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Movimiento.cs",
+              "RelativeToolTip": "Neoris\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:03:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Data\\MiDbContext.cs",
+              "RelativeDocumentMoniker": "Neoris\\Data\\MiDbContext.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Data\\MiDbContext.cs",
+              "RelativeToolTip": "Neoris\\Data\\MiDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:15:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Neoris\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\ARELYS\\Documents\\Lis\\Neoris\\Ejercios\\Neoris\\Neoris\\Models\\Cuenta.cs",
+              "RelativeToolTip": "Neoris\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:18:12.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
